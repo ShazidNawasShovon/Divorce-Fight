@@ -1,0 +1,33 @@
+ul.tick li::before { font-family: "Font Awesome 5 Free"; font-weight: bold; content: ""; position: absolute; top: 0px; left: 0px; color: rgb(52, 61, 185); }
+.title::after { background: rgb(52, 61, 185); content: ""; width: 56px; height: 2px; position: absolute; bottom: -18px; left: 0px; }
+.title p { font-size: 20px; letter-spacing: 3px; color: rgb(52, 61, 185); text-transform: uppercase; margin-bottom: 0px; }
+.readmore a { text-decoration: none; font-size: 18px; background: rgb(52, 61, 185); font-weight: bold; font-family: Montserrat, sans-serif; display: inline-block; padding: 18px 38px; color: rgb(255, 255, 255); }
+.header-wrap .conInfo a:hover { color: rgb(52, 61, 185); }
+.bg-light { padding: 0px; background: rgb(52, 61, 185) !important; }
+.navbar-light .navbar-nav .nav-link:hover { background: rgb(52, 61, 185); color: rgb(255, 255, 255); }
+.sticky { top: 0px; position: fixed; width: 100%; left: 0px; z-index: 10000; background: rgb(52, 61, 185); height: 65px; margin-top: 0px; box-shadow: rgba(3, 3, 3, 0.11) 0px 5px 7px; }
+.lawyer_categories { background: rgb(52, 61, 185); }
+.counter-icon { font-size: 60px; width: 90px; height: 90px; text-align: center; line-height: 90px; border-radius: 100%; border: 1px solid rgb(52, 61, 185); display: inline-block; color: rgb(255, 255, 255); }
+.counter-icon { color: rgb(52, 61, 185); font-size: 40px; }
+.practice-wrap h3 a:hover { color: rgb(52, 61, 185); }
+.icon_img { width: 90px; height: 90px; text-align: center; line-height: 90px; font-size: 42px; border-radius: 100%; border: 1px solid rgb(52, 61, 185); display: inline-block; color: rgb(52, 61, 185); transition: all 400ms ease 0s; }
+.testimonials-wrap .owl-dots button { width: 20px; height: 20px; border: 2px solid rgb(52, 61, 185); border-radius: 100%; background: rgb(255, 255, 255); margin: 5px; }
+.testimonials-wrap button.active { background: rgb(52, 61, 185); }
+.advice-wrap .phonewrp a:hover { color: rgb(52, 61, 185); }
+.blog-detail h3 a { font-size: 24px; font-weight: bold; color: rgb(52, 61, 185); text-decoration: none; }
+.contact-wrap::after { background: rgb(52, 61, 185); content: ""; width: 50%; height: 100%; position: absolute; top: 0px; right: 0px; z-index: -1; }
+.form-group .btn { background: rgb(52, 61, 185); letter-spacing: 2px; border-radius: 0px; font-family: Montserrat, sans-serif; font-size: 16px; color: rgb(255, 255, 255); text-transform: uppercase; padding: 12px 28px; }
+.newsletter-wrap { background: rgb(52, 61, 185); padding: 35px 45px; z-index: 1000; position: relative; }
+.newsletter-wrap form input[type="submit"] { background: none 0px 0px repeat scroll rgb(52, 61, 185); border: medium none; z-index: 1000; color: rgb(255, 255, 255); font-size: 20px; cursor: pointer; font-weight: bold; padding: 0px 30px; position: absolute; right: 10px; bottom: 10px; border-radius: 0px; top: 10px; transition: all 0.35s ease-in-out 0s; }
+.footer-links li a:hover { color: rgb(52, 61, 185); }
+.blog-pagination a { display: inline-block; width: 50px; height: 50px; text-align: center; text-decoration: none; line-height: 50px; color: rgb(52, 61, 185); border: 1px solid rgb(52, 61, 185); border-radius: 50%; margin: 3px; }
+.blog-pagination a:hover, .blog-pagination a.active { background: rgb(52, 61, 185); color: rgb(255, 255, 255); }
+.single-widgets:hover { border-color: rgb(52, 61, 185); }
+.single-widgets.widget_search form button { position: absolute; right: 5px; top: 5px; bottom: 0px; cursor: pointer; border-radius: 4px; background: rgb(52, 61, 185); color: rgb(255, 255, 255); border: 0px; font-size: 14px; line-height: 50px; height: 50px; width: 52px; }
+.category_wrp li a:hover { color: rgb(52, 61, 185); }
+.tagswrp li a:hover { background: rgb(52, 61, 185); color: rgb(255, 255, 255); border-color: rgb(52, 61, 185); }
+blockquote { font-size: 14px; font-style: italic; line-height: 24px; background: rgb(255, 244, 230); padding: 25px; border-left: 8px solid rgb(52, 61, 185); margin: 20px 0px; }
+.bannerform .sub { box-shadow: rgba(0, 0, 0, 0.15) 0px 4px 5px; color: rgb(255, 255, 255); font-size: 15px; text-transform: uppercase; background: rgb(52, 61, 185); font-weight: bold; padding: 14px 30px; border: none; display: inline-block; }
+@media screen and (max-width: 990px) {
+  .contact-wrap { background: rgb(52, 61, 185); }
+}
